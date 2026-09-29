@@ -1,2 +1,1 @@
-# Dragon-Ball-Z
-.......
+# Dragon-ball
